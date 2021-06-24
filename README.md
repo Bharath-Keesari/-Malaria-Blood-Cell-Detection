@@ -189,7 +189,6 @@ Script for evaluation of training and testing images using two-staged classifica
 Function to predict the result of blood sample image and also shows the image of input blood sample with labels of each cell and bouding box.
 
 
-# Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+Credit @skshashankkumar41
 
 
